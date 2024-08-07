@@ -1,11 +1,10 @@
 import React from "react";
+import GreetingPage from "./GreetingPage/GreetingPage";
 
 
 function App() {
     return (
-        <div>
-            hello
-        </div>
+        <GreetingPage/>
     )
 }
 
