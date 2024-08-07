@@ -1,10 +1,14 @@
 import React from "react";
 import GreetingPage from "./GreetingPage/GreetingPage";
-
+import AlyssaPage from "./AlyssaPage/AlyssaPage";
 
 function App() {
     return (
-        <GreetingPage/>
+        <div>
+            <GreetingPage/>
+            <AlyssaPage/>
+        </div>
+        
     )
 }
 
