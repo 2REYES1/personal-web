@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/introducing-me/static/css/main.49cf040d.css",
+    "main.js": "/introducing-me/static/js/main.dd8f5c87.js",
+    "static/media/alyssa-pic.JPG": "/introducing-me/static/media/alyssa-pic.0e9e0cb905a7e1cad588.JPG",
+    "static/media/reyes-resume.pdf": "/introducing-me/static/media/reyes-resume.c6c5f03aa745d2af1129.pdf",
+    "index.html": "/introducing-me/index.html",
+    "main.49cf040d.css.map": "/introducing-me/static/css/main.49cf040d.css.map",
+    "main.dd8f5c87.js.map": "/introducing-me/static/js/main.dd8f5c87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49cf040d.css",
+    "static/js/main.dd8f5c87.js"
+  ]
+}
