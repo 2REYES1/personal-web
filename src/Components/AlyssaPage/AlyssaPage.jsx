@@ -1,6 +1,7 @@
 import './AlyssaPage.css';
 import * as React from 'react';
-import alyssaImage from './imgs/alyssa-pic.JPG'; // Adjust the path to your image
+import alyssaImage from './imgs/alyssa-pic.JPG'; 
+import ImportantLinks from "../ImportantLinks/ImportantLinks"
 
 function AlyssaPage(){
     return(
@@ -13,6 +14,7 @@ function AlyssaPage(){
                         ALYSSA REYES
                     </div>
                     <img src={alyssaImage} alt="Alyssa" />
+                    <ImportantLinks/>
                 </div>
                 
                 {/* middle box */}
@@ -20,7 +22,7 @@ function AlyssaPage(){
                     
                     <div className={"alyssa-green-box"}>
                         <p className={"alyssa-box-headers"}>INTERESTS</p>
-                        <p>front-end web development, full-stack web development, ui/ux design, game development, game design artificial intelligence.</p>
+                        <p>front-end web development, full-stack web development, ui/ux design, game development, game design, artificial intelligence.</p>
                     </div>
                 </div>
 

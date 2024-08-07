@@ -41,3 +41,7 @@ a.email-button{
     
     width: 300px;
 }
+
+a.email-button:hover{
+    color: black;
+}

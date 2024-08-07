@@ -1,0 +1,36 @@
+.important-links-box{
+    /* background-color: #6E73DD; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    /* width: 100vw; */
+    font-size: 17pt;
+   
+}
+
+.important-links-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+    width: 20vw;
+    height: 60px;
+}
+
+a.links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #6E73DD;
+    text-decoration: none;
+    border: 3px solid;
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a.links:hover{
+    color: black;
+}
