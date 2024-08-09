@@ -5,7 +5,7 @@ import ImportantLinks from "./ImportantLinks/ImportantLinks"
 
 function App() {
     return (
-        <div className={"center-all"}>
+        <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', }}>
             <GreetingPage/>
             <AlyssaPage/>
             

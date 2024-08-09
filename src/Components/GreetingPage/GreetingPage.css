@@ -1,3 +1,17 @@
+.nanum-pen-script-regular {
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  
+.roboto-mono-400 {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
 
 .introduction{
     background-color: #E3E4EA;

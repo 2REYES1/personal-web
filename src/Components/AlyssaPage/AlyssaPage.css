@@ -1,3 +1,18 @@
+.nanum-pen-script-regular {
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  
+.roboto-mono-400 {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
 .alyssa-box{
     background-color: #E3E4EA;
     display: flex;
@@ -8,6 +23,7 @@
     width: 100vw;
     margin: 0px 0px 0px 0px;
 }
+
 .alyssa-grid{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -15,6 +31,7 @@
     width: 80vw;
     grid-gap: 1rem;
 }
+
 
 .alyssa-center{
     display: flex;
